@@ -27,10 +27,5 @@ python main.py --data './data' \  # The directory put the training data
         --save './result/joint_diff'
 ```
 
-## Current Done
-
-  - A basic architecture for POS tagging and chunking
-  - Explorate the best hyperparameters of NN
-
-## Todo
-  - [ ] Chunking exploration
+## Book Reference
+More information can be found at: [Deep Learning for NLP and Speech Recognition](https://www.amazon.com/Deep-Learning-NLP-Speech-Recognition/dp/3030145956) by [Springer](https://www.springer.com/us/book/9783030145958) 
